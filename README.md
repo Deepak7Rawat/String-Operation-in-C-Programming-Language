@@ -82,40 +82,40 @@ Enter String -- hello world
 6. Convert Last Letter of Each Word into Uppercase
 7. Count Occurrence of Each Letter
 
-##🔤 Input String
-#hello world
+🔤 Input String
+hello world
 
-#1️⃣ Convert UpperCase Letter
+1️⃣ Convert UpperCase Letter
 
 Output:-
 HELLO WORLD
 
-#2️⃣ Convert LowerCase Letter
+2️⃣ Convert LowerCase Letter
 
 Output:-
 hello world
 
-#3️⃣ Reverse String
+3️⃣ Reverse String
 
 Output:-
 dlrow olleh
 
-#4️⃣ Reverse Each Word on Their Position
+4️⃣ Reverse Each Word on Their Position
 
 Output:-
 olleh dlrow
 
-#5️⃣ Convert First Letter of Each Word into Uppercase
+5️⃣ Convert First Letter of Each Word into Uppercase
 
 Output:-
 Hello World
 
-#6️⃣ Convert Last Letter of Each Word into Uppercase
+6️⃣ Convert Last Letter of Each Word into Uppercase
 
 Output:-
 hellO worlD
 
-#7️⃣ Count Occurrence of Each Letter
+7️⃣ Count Occurrence of Each Letter
 
 Output:-
 Occurrence of h is -- 1
