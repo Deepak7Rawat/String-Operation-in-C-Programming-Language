@@ -82,3 +82,12 @@ Enter String -- hello world
 6. Convert Last Letter of Each Word into Uppercase
 7. Count Occurrence of Each Letter
 
+🔤 Input String
+hello world
+
+1️⃣ Convert UpperCase Letter
+
+Output
+HELLO WORLD
+
+
