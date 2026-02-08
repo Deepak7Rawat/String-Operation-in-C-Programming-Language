@@ -118,13 +118,13 @@ hellO worlD
 7️⃣ Count Occurrence of Each Letter
 
 Output:-
-Occurrence of h is -- 1
-Occurrence of e is -- 1
-Occurrence of l is -- 3
-Occurrence of o is -- 2
-Occurrence of   is -- 1
-Occurrence of w is -- 1
-Occurrence of r is -- 1
-Occurrence of d is -- 1
+Occurrence of h is -- 1 
+Occurrence of e is -- 1 
+Occurrence of l is -- 3 
+Occurrence of o is -- 2 
+Occurrence of   is -- 1 
+Occurrence of w is -- 1 
+Occurrence of r is -- 1 
+Occurrence of d is -- 1 
 
 
